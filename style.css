@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+footer {
+    font-family: "Great Vibes", cursive;
+    font-size: 24px;
+    text-align: center;
+}
+#hr1 {
+    width: 70%;
+}
+#hr2 {
+    width: 60%;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 60%;
+    text-align: center;
+    align-self: center;
+    margin: 0 auto;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
